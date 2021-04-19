@@ -1,5 +1,6 @@
 import React,{useState} from 'react';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {faPlusCircle} from '@fortawesome/free-solid-svg-icons'
 const PlayerCart = (props) => {
     console.log(props)
     const player = props.player;
@@ -8,7 +9,7 @@ const PlayerCart = (props) => {
 
     return (
         <div>
-            <h4>Player Cart</h4>
+            <h1>Player Cart </h1>
             <p>Selected player: {player}</p>
             <p>Your Team:
             {

@@ -11,16 +11,11 @@ const PlayersDine = () => {
     const playerAdded = (eachPlayer) => {
         let newplayer = [...player, eachPlayer] ;
         setPlayer(newplayer);
-        // console.log(eachPlayer.salary)
         
-        // let cost = 0;
         for (let i = 0; i < true; i++) {
             var totalCost = cost + eachPlayer.salary;
             setCost(totalCost)
         }
-        // console.log(cost)
-        // let grandNum = Number(totalCost)
-        // console.log(totalCost)
 
         
     }
