@@ -1,0 +1,19 @@
+.btn{
+    padding: 5px 10px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.players{
+    display: inline-flex;
+    margin: 10px;
+}
+.imgStyle{
+    height: 150px;
+    width: 250px;
+    object-fit: contain;
+}
+.eachPlayer{
+    height: 350px;
+    width: 265px;
+}

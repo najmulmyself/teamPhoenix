@@ -1,0 +1,9 @@
+.body-section{
+    display: flex;
+}
+.players-body{
+    width: 70%;
+    background: rgb(224, 224, 224);
+    margin: 0 60px;
+    border-right: 1px solid grey;
+}
