@@ -5,7 +5,7 @@
     "gender": "Male",
     "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/296300/296315.6.jpg",
     "age": 34,
-    "salary": 500000
+    "salary": 1000
   }, {
     "id": 2,
     "name": "Mashrafe Mortaza",
@@ -13,7 +13,7 @@
     "gender": "Male",
     "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/12/30/771982-mashrafe-mortaza.jpg",
     "age": 37,
-    "salary": 500000
+    "salary": 890
   }, {
     "id": 3,
     "name": "Musfiqur Rahim",
@@ -21,7 +21,7 @@
     "gender": "Male",
     "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201910/mushi27102019.jpeg?_R6oH_Or1toiybdjhLfA8yqxlaksx2Hy&size=770:433",
     "age": 34,
-    "salary": 500000
+    "salary": 900
   }, {
     "id": 4,
     "name": "Mahmudullah",
@@ -29,7 +29,7 @@
     "gender": "Male",
     "image": "https://www.cricketcountry.com/wp-content/uploads/2018/10/Mahmudullah-Getty-Images.jpg",
     "age": 35,
-    "salary": 500000
+    "salary": 450
   }, {
     "id": 5,
     "name": "Tamim Iqbal",
@@ -37,7 +37,7 @@
     "gender": "Male",
     "image": "https://c.ndtvimg.com/2020-03/uejheitg_tamim-iqbal-afp_625x300_08_March_20.jpg",
     "age": 32,
-    "salary": 500000
+    "salary": 600
   }, {
     "id": 6,
     "name": "Soumya Sarkar",
@@ -45,7 +45,7 @@
     "gender": "Male",
     "image": "https://www.indiafantasy.com/wp-content/uploads/Untitled-design-4-3.jpg",
     "age": 28,
-    "salary": 500000
+    "salary": 340
   }, {
     "id": 7,
     "name": "Mehidy Hasan",
@@ -53,7 +53,7 @@
     "gender": "Male",
     "image": "https://staticg.sportskeeda.com/editor/2021/02/1a8ed-16144961536755-800.jpg",
     "age": 23,
-    "salary": 500000
+    "salary": 140
   }, {
     "id": 8,
     "name": "Mustafizur Rahman",
@@ -61,7 +61,7 @@
     "gender": "Male",
     "image": "https://www.cricketsoccer.com/wp-content/uploads/2018/09/280728.jpg",
     "age": 25,
-    "salary": 500000
+    "salary": 850
   }, {
     "id": 9,
     "name": "Taskin Ahmed",
@@ -69,7 +69,7 @@
     "gender": "Male",
     "image": "https://p.imgci.com/db/PICTURES/CMS/252900/252917.jpg",
     "age": 26,
-    "salary": 500000
+    "salary": 230
   }, {
     "id": 10,
     "name": "Nasir Khan",
@@ -77,7 +77,7 @@
     "gender": "Male",
     "image": "https://www.bdcrictime.com/wp-content/uploads/2017/01/BCB-to-Nasir-Al-Amin-from-central-contracts.jpg",
     "age": 29,
-    "salary": 500000
+    "salary": 160
   }, {
     "id": 11,
     "name": "Imrul Kayes",
@@ -85,7 +85,7 @@
     "gender": "Male",
     "image": "https://www.bdcrictime.com/wp-content/uploads/2020/03/imrul-bro.jpg",
     "age": 34,
-    "salary": 500000
+    "salary": 110
   }, {
     "id": 12,
     "name": "Sabbir Rahman",
@@ -93,7 +93,7 @@
     "gender": "Male",
     "image": "http://www.dainikocean.com/en/files/uploads/Sabbir-Rahman-dedicated-his-first-century-to-his-p.jpg",
     "age": 29,
-    "salary": 500000
+    "salary": 110
   }, {
     "id": 13,
     "name": "Rubel Hossain",
@@ -101,7 +101,7 @@
     "gender": "Male",
     "image": "https://www.cricketcountry.com/wp-content/uploads/2015/05/Rubel-Hossain-of-Bangladesh-appeals-for-a-wicket-21.jpg",
     "age": 31,
-    "salary": 500000
+    "salary": 100
   }, {
     "id": 14,
     "name": "Soumya Sarkar",
@@ -109,7 +109,7 @@
     "gender": "Male",
     "image": "https://www.indiafantasy.com/wp-content/uploads/Untitled-design-4-3.jpg",
     "age": 28,
-    "salary": 500000
+    "salary": 130
   }, {
     "id": 15,
     "name": "Liton Das",
@@ -117,5 +117,5 @@
     "gender": "Male",
     "image": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/10/17/cf0e9cc5-02a3-4a7a-8e93-4ad46d08ec82/Liton-Das.jpg",
     "age": 27,
-    "salary": 500000
+    "salary": 100
   }]

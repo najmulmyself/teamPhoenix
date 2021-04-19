@@ -5,20 +5,34 @@ import fakeData from '../../Data/FakeData.json'
 import PlayerCart from '../PlayerCart/PlayerCart';
 
 const PlayersDine = () => {
-    let data= fakeData.map(player => {let data = player})
-    const [player, setPlayer] = useState(0);
-    const playerAdded = () => {
-        console.log('player added');
+    let data= fakeData.map(pr => {let data = pr})
+    const [player, setPlayer] = useState([]);
+    const [cost , setCost] = useState(0);
+    const playerAdded = (eachPlayer) => {
+        let newplayer = [...player, eachPlayer] ;
+        setPlayer(newplayer);
+        // console.log(eachPlayer.salary)
+        
+        // let cost = 0;
+        for (let i = 0; i < true; i++) {
+            var totalCost = cost + eachPlayer.salary;
+            setCost(totalCost)
+        }
+        // console.log(cost)
+        // let grandNum = Number(totalCost)
+        // console.log(totalCost)
+
+        
     }
     return (
         <div>
             <h2 style={{textAlign: 'center'}}>Total Player = {data.length}</h2>
             <div className='body-section'>
                 <div className='players-body'>
-                    {fakeData.map(player => <Player playerAdded={() => playerAdded()} player={player}></Player>)}
+                    {fakeData.map(player => <Player playerAdded={playerAdded} player={player}></Player>)}
                 </div>
                 <div className='cart'>
-                    <PlayerCart></PlayerCart>
+                    <PlayerCart player={player.length} name={player} cost={cost}></PlayerCart>
                 </div>
             </div>
         </div>
